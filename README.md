@@ -64,7 +64,7 @@ This project explores the pressing challenge of employee attrition using the IBM
 - Recommend **employee retention strategies**
   
 
-## Dashboard
+## 📊 Dashboard
 
 <img width="1920" height="993" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/9d7de7cc-f063-45c6-b018-54de543c9b0b" />
 
