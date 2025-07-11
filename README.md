@@ -54,7 +54,7 @@ This project explores the pressing challenge of employee attrition using the IBM
 ## 📂 Dataset
 
 - Dataset: **IBM HR Analytics Employee Attrition & Performance**
-- Source: Kaggle / IBM (public)
+- Source: Unified Mentor
 
 ---
 
